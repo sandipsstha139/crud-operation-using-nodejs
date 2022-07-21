@@ -1,0 +1,4 @@
+insert into users(name,email,phone_no) values("sandip shrestha","sandipstha139@gmail.com",9865249318 );
+insert into users(name,email,phone_no) values("samir shrestha","samirshrestha@gmail.com",9865010296 );
+insert into users(name,email,phone_no) values("sudip shrestha","sudipshrstha@gmail.com",9865181434 );
+insert into users(name,email,phone_no) values("bhim lala shrestha","bhim@gmail.com",9812225404 );
